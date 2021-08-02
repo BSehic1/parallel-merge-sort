@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/bsehic1/Desktop/prs_v1/main.cpp
+iostream
+-
+vector
+-
+list
+-
+random
+-
+chrono
+-
+algorithm
+-
+
